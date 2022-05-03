@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("second commit");
         System.out.println("hot-fix");
         System.out.println("master-conflict-merge");
+        System.out.println("hot-fix-conflict-merge");
     }
 }
